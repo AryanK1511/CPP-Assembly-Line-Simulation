@@ -1,11 +1,3 @@
-// Name: Aryan Khurana
-// Seneca Student ID: 145282216
-// Seneca email: akhurana22@myseneca.ca
-// Date of completion: 06 April 2023
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
-
 ========== DEVELOPMENT PROCESS ==========
 Through this project we basically implement and revise all of the concepts that we have learnt up until now as a part of the OOP345 Course. Here, we create an assembly line and simulate that. So basically, we receive a customer order which has multiple items in the order.
 Every item is modelled as a struct.
